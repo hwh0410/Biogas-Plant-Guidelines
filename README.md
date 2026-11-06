@@ -1,3 +1,5 @@
+> **新版視覺方向已確認（2026-11-06）**：接下來採「拜爾 Bio 全彩 DM 式圖解手冊」，由官方黃色安全帽綠色機器人以對話框與設備互動引導讀者。先看 [新版設計系統](docs/BIO_DM_DESIGN_SYSTEM.md)、[20 頁視覺任務表](docs/BIO_DM_PAGE_PLAN.md)、[P01–P03 接手紀錄](docs/BIO_DM_HANDOFF.md)。此為**後續改版方向及交接文件**，已完成的三張概念 PNG 尚待納入 repo、校對和正式排版；現有 v1.1-full21 成品仍保留，沒有被取代。
+
 # 沼氣場健康檢查手冊
 
 本 repo 已匯入既有專案與 Windows 相容性修正。[Windows 建置指南](docs/windows-full21-build.md) · [匯入範圍與限制](docs/github-import.md)。ZIP 封裝留在本機，請下載下列 PDF／HTML 或使用 GitHub Download ZIP。網站未發布。
