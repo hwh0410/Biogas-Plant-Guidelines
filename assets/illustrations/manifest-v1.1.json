@@ -1,0 +1,49 @@
+{
+  "tool": "built-in image_gen.imagegen",
+  "date": "2026-11-06",
+  "external_billed_api_calls": false,
+  "mascots_in_generated_art": false,
+  "review": "Editorial visual check complete; engineering / safety review pending",
+  "assets": [
+    {
+      "file": "plant-overview-v1.1.png",
+      "sha256": "61cb20778c7cff86ed04d49a01310ea1584fd86d8c38d8f356db8080b7b18b69",
+      "pixels": [
+        1536,
+        1024
+      ],
+      "original_output": "exec-e0a58a0b-70c3-48ab-94ff-f8f8b7a41e10.png",
+      "prompt": "prompts/plant-overview-v1.1.txt",
+      "usage": [
+        "cover",
+        "P03"
+      ]
+    },
+    {
+      "file": "digester-comparison-v1.1.png",
+      "sha256": "26a7b4805994a09951f00a2bfeae0be22c860c2eb9017f1cc5f8d1b62aea27ad",
+      "pixels": [
+        1536,
+        1024
+      ],
+      "original_output": "exec-5f0fc395-b8f4-46d4-a67e-5fd48afa8274.png",
+      "prompt": "prompts/digester-comparison-v1.1.txt",
+      "usage": [
+        "P05"
+      ]
+    },
+    {
+      "file": "desulfurization-v1.1.png",
+      "sha256": "bed2fc5a6f2708cdd6e4d178fa5a8036f049837292c9a7864eaf64a29007b1fe",
+      "pixels": [
+        1536,
+        1024
+      ],
+      "original_output": "exec-11893dba-2259-4bd3-9a42-cf746fe59bbc.png",
+      "prompt": "prompts/desulfurization-v1.1.txt",
+      "usage": [
+        "P10"
+      ]
+    }
+  ]
+}

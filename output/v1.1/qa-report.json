@@ -1,0 +1,555 @@
+{
+  "version": "v1.1-four-page-prototype",
+  "content_sha256": "516e010aaac23ab18c106373e9356c104e3492c43d63e2116b5ce5ab0f73d4cb",
+  "mascot_original_hashes": {
+    "mascot-character-sheet-v0.1.png": "b546e162beb2bdffdc25b128cc900cf60e572cc41c5adf081b42dc4cb7570a63",
+    "mascot-pose-sheet-v0.1.png": "9c694a3d5678751225be82cd69e5446a1b99a758682106333c79ae5b87cce06f"
+  },
+  "text_fit": [
+    {
+      "page": "cover",
+      "text": "BIOGAS  /  FIELD GUIDE   ",
+      "remaining_pt": 3.69
+    },
+    {
+      "page": "cover",
+      "text": "沼氣場\n健康檢查手冊",
+      "remaining_pt": 17.32
+    },
+    {
+      "page": "cover",
+      "text": "看懂設備，讀懂趨勢，找到安全的下一步。",
+      "remaining_pt": 3.17
+    },
+    {
+      "page": "cover",
+      "text": "給農民、牧場負責人與非環工背景業主的巡檢助手。",
+      "remaining_pt": 8.43
+    },
+    {
+      "page": "cover",
+      "text": "01 導讀與快篩  P01–P03",
+      "remaining_pt": 2.87
+    },
+    {
+      "page": "cover",
+      "text": "02 生物系統  P04–P08",
+      "remaining_pt": 2.87
+    },
+    {
+      "page": "cover",
+      "text": "03 沼氣處理與安全  P09–P12",
+      "remaining_pt": 2.87
+    },
+    {
+      "page": "cover",
+      "text": "04 發電與實用工具  P13–P20",
+      "remaining_pt": 2.87
+    },
+    {
+      "page": "cover",
+      "text": "會議討論版 · 設備示意非施工圖 · 技術與工安尚",
+      "remaining_pt": 1.69
+    },
+    {
+      "page": "cover",
+      "text": "v1.1 專業圖解樣板｜封面＋P03、P05、P1",
+      "remaining_pt": 3.58
+    },
+    {
+      "page": "cover",
+      "text": "v1.1",
+      "remaining_pt": 7.54
+    },
+    {
+      "page": "P03",
+      "text": "導讀  /  BIOGAS FIELD GUIDE",
+      "remaining_pt": 2.51
+    },
+    {
+      "page": "P03",
+      "text": "P03",
+      "remaining_pt": 5.75
+    },
+    {
+      "page": "P03",
+      "text": "沼氣從哪裡來？",
+      "remaining_pt": 4.49
+    },
+    {
+      "page": "P03",
+      "text": "分開追蹤物料、沼氣與電力，才找得到問題落在哪一段。",
+      "remaining_pt": 16.43
+    },
+    {
+      "page": "P03",
+      "text": "進料與前處理",
+      "remaining_pt": 0.51
+    },
+    {
+      "page": "P03",
+      "text": "厭氧槽",
+      "remaining_pt": 0.51
+    },
+    {
+      "page": "P03",
+      "text": "儲氣",
+      "remaining_pt": 0.51
+    },
+    {
+      "page": "P03",
+      "text": "氣體處理（含脫硫／脫水）",
+      "remaining_pt": 0.51
+    },
+    {
+      "page": "P03",
+      "text": "發電機",
+      "remaining_pt": 0.51
+    },
+    {
+      "page": "P03",
+      "text": "沼渣／沼液處理與接收",
+      "remaining_pt": 0.51
+    },
+    {
+      "page": "P03",
+      "text": "實線棕：物料　虛線藍：沼氣　實線綠：出料｜儲氣、脫",
+      "remaining_pt": 8.32
+    },
+    {
+      "page": "P03",
+      "text": "01  先看哪裡",
+      "remaining_pt": 1.43
+    },
+    {
+      "page": "P03",
+      "text": "• 確認進料、厭氧槽、氣體處理、儲氣與發電設備的位",
+      "remaining_pt": 5.03
+    },
+    {
+      "page": "P03",
+      "text": "02  可能原因",
+      "remaining_pt": 1.43
+    },
+    {
+      "page": "P03",
+      "text": "• 氣量少可能在生物端；有氣卻發不出電，也可能在供",
+      "remaining_pt": 19.31
+    },
+    {
+      "page": "P03",
+      "text": "03  可以先做什麼",
+      "remaining_pt": 1.43
+    },
+    {
+      "page": "P03",
+      "text": "• 用流程圖找到異常單元，記下前後段讀值與事件時間",
+      "remaining_pt": 5.03
+    },
+    {
+      "page": "P03",
+      "text": "04  何時找人",
+      "remaining_pt": 1.43
+    },
+    {
+      "page": "P03",
+      "text": "• 不清楚管線用途、旁通位置或儀表位置時，請建置廠",
+      "remaining_pt": 19.31
+    },
+    {
+      "page": "P03",
+      "text": "！安全界線",
+      "remaining_pt": 0.06
+    },
+    {
+      "page": "P03",
+      "text": "流程圖只表示功能關係；現場順序、保護設施及聯鎖須由",
+      "remaining_pt": 13.06
+    },
+    {
+      "page": "P03",
+      "text": "安全範圍外的事，交給專業人員。",
+      "remaining_pt": 3.69
+    },
+    {
+      "page": "P03",
+      "text": "原手冊 PDF 19／印刷 12：系統單元；診斷與",
+      "remaining_pt": 3.58
+    },
+    {
+      "page": "P03",
+      "text": "P03",
+      "remaining_pt": 7.54
+    },
+    {
+      "page": "P05",
+      "text": "生物系統  /  BIOGAS FIELD GUI",
+      "remaining_pt": 2.51
+    },
+    {
+      "page": "P05",
+      "text": "P05",
+      "remaining_pt": 5.75
+    },
+    {
+      "page": "P05",
+      "text": "厭氧槽是否正常？",
+      "remaining_pt": 4.49
+    },
+    {
+      "page": "P05",
+      "text": "看趨勢比看單一數字更有用：溫度、pH、液位要一起看",
+      "remaining_pt": 16.43
+    },
+    {
+      "page": "P05",
+      "text": "正常示意｜以本場基準判讀",
+      "remaining_pt": 0.51
+    },
+    {
+      "page": "P05",
+      "text": "異常示意｜非單憑剖面診斷",
+      "remaining_pt": 0.51
+    },
+    {
+      "page": "P05",
+      "text": "泡沫／浮渣",
+      "remaining_pt": 0.51
+    },
+    {
+      "page": "P05",
+      "text": "底部沉積",
+      "remaining_pt": 0.51
+    },
+    {
+      "page": "P05",
+      "text": "概念剖面，非開槽觀察：以可用儀表、合規取樣與安全查",
+      "remaining_pt": 9.32
+    },
+    {
+      "page": "P05",
+      "text": "01  先看哪裡",
+      "remaining_pt": 1.43
+    },
+    {
+      "page": "P05",
+      "text": "• 比對溫度、pH、液位、泡沫與產氣的近期紀錄。\n",
+      "remaining_pt": 19.31
+    },
+    {
+      "page": "P05",
+      "text": "02  可能原因",
+      "remaining_pt": 1.43
+    },
+    {
+      "page": "P05",
+      "text": "• 進料改變、混合或加熱異常，可能伴隨讀值變動。\n",
+      "remaining_pt": 19.31
+    },
+    {
+      "page": "P05",
+      "text": "03  可以先做什麼",
+      "remaining_pt": 1.43
+    },
+    {
+      "page": "P05",
+      "text": "• 記下異常開始時間，連同進料與氣量一起提供。\n•",
+      "remaining_pt": 19.31
+    },
+    {
+      "page": "P05",
+      "text": "04  何時找人",
+      "remaining_pt": 1.43
+    },
+    {
+      "page": "P05",
+      "text": "• 液位快速變化、溢流、泡沫帶入氣管或多項趨勢同時",
+      "remaining_pt": 5.03
+    },
+    {
+      "page": "P05",
+      "text": "！安全界線",
+      "remaining_pt": 0.06
+    },
+    {
+      "page": "P05",
+      "text": "槽內及槽頂作業有氣體與墜落風險；未受訓人員不得進入",
+      "remaining_pt": 13.06
+    },
+    {
+      "page": "P05",
+      "text": "看趨勢，不急著下結論。",
+      "remaining_pt": 3.69
+    },
+    {
+      "page": "P05",
+      "text": "編輯補充建議｜依既定企劃編寫；技術與工安待審\n相關",
+      "remaining_pt": 3.58
+    },
+    {
+      "page": "P05",
+      "text": "P05",
+      "remaining_pt": 7.54
+    },
+    {
+      "page": "P10",
+      "text": "沼氣處理與安全  /  BIOGAS FIELD ",
+      "remaining_pt": 2.51
+    },
+    {
+      "page": "P10",
+      "text": "P10",
+      "remaining_pt": 5.75
+    },
+    {
+      "page": "P10",
+      "text": "脫硫設備有在工作嗎？",
+      "remaining_pt": 4.49
+    },
+    {
+      "page": "P10",
+      "text": "看處理前後的紀錄，尤其是供機組使用端是否符合允收條",
+      "remaining_pt": 16.43
+    },
+    {
+      "page": "P10",
+      "text": "乾式吸附式｜設備型式範例",
+      "remaining_pt": 0.51
+    },
+    {
+      "page": "P10",
+      "text": "A 前端量測位置",
+      "remaining_pt": 0.51
+    },
+    {
+      "page": "P10",
+      "text": "B 後端量測位置",
+      "remaining_pt": 0.51
+    },
+    {
+      "page": "P10",
+      "text": "A／B 為量測位置示意，需工程確認；依案場核定的密",
+      "remaining_pt": 9.32
+    },
+    {
+      "page": "P10",
+      "text": "01  先看哪裡",
+      "remaining_pt": 1.43
+    },
+    {
+      "page": "P10",
+      "text": "• 讀取既有前、後端硫化氫紀錄，確認量測時間與單位",
+      "remaining_pt": 19.31
+    },
+    {
+      "page": "P10",
+      "text": "02  可能原因",
+      "remaining_pt": 1.43
+    },
+    {
+      "page": "P10",
+      "text": "• 耗材接近飽和、氣量變化、接觸不良或儀表異常皆可",
+      "remaining_pt": 5.03
+    },
+    {
+      "page": "P10",
+      "text": "03  可以先做什麼",
+      "remaining_pt": 1.43
+    },
+    {
+      "page": "P10",
+      "text": "• 記下出口讀值、警報與上次維護時間，通知受訓人員",
+      "remaining_pt": 5.03
+    },
+    {
+      "page": "P10",
+      "text": "04  何時找人",
+      "remaining_pt": 1.43
+    },
+    {
+      "page": "P10",
+      "text": "• 出口讀值持續偏高、壓差異常或設備異常升溫。\n•",
+      "remaining_pt": 19.31
+    },
+    {
+      "page": "P10",
+      "text": "！安全界線",
+      "remaining_pt": 0.06
+    },
+    {
+      "page": "P10",
+      "text": "圖上的量測點是既有密閉量測系統示意，不是教讀者開孔",
+      "remaining_pt": 13.06
+    },
+    {
+      "page": "P10",
+      "text": "先記錄，再判讀。",
+      "remaining_pt": 3.69
+    },
+    {
+      "page": "P10",
+      "text": "原手冊 PDF 20–23／印刷 13–16：脫硫",
+      "remaining_pt": 3.58
+    },
+    {
+      "page": "P10",
+      "text": "P10",
+      "remaining_pt": 7.54
+    }
+  ],
+  "images": [
+    {
+      "page": "cover",
+      "asset": "assets/illustrations/plant-overview-v1.1.png",
+      "pixels": [
+        1536,
+        1024
+      ],
+      "minimum_dpi": 201,
+      "sha256": "61cb20778c7cff86ed04d49a01310ea1584fd86d8c38d8f356db8080b7b18b69"
+    },
+    {
+      "page": "cover",
+      "asset": "assets/mascot/poses/guide-v1.1.png",
+      "pixels": [
+        291,
+        341
+      ],
+      "minimum_dpi": 322,
+      "sha256": "1737b046070255798cbe7f2dfa7bfca551ae4ab0de7f031d13359518d94b1bfe"
+    },
+    {
+      "page": "P03",
+      "asset": "assets/illustrations/plant-overview-v1.1.png",
+      "pixels": [
+        1536,
+        1024
+      ],
+      "minimum_dpi": 216,
+      "sha256": "61cb20778c7cff86ed04d49a01310ea1584fd86d8c38d8f356db8080b7b18b69"
+    },
+    {
+      "page": "P03",
+      "asset": "assets/mascot/poses/inspect-v1.1.png",
+      "pixels": [
+        293,
+        341
+      ],
+      "minimum_dpi": 659,
+      "sha256": "0640577a0f0832589b563e72fbacd31e4e5abb8ee52393d7e4dd17759688ccea"
+    },
+    {
+      "page": "P05",
+      "asset": "assets/illustrations/digester-comparison-v1.1.png",
+      "pixels": [
+        1536,
+        1024
+      ],
+      "minimum_dpi": 216,
+      "sha256": "26a7b4805994a09951f00a2bfeae0be22c860c2eb9017f1cc5f8d1b62aea27ad"
+    },
+    {
+      "page": "P05",
+      "asset": "assets/mascot/poses/inspect-v1.1.png",
+      "pixels": [
+        293,
+        341
+      ],
+      "minimum_dpi": 659,
+      "sha256": "0640577a0f0832589b563e72fbacd31e4e5abb8ee52393d7e4dd17759688ccea"
+    },
+    {
+      "page": "P10",
+      "asset": "assets/illustrations/desulfurization-v1.1.png",
+      "pixels": [
+        1536,
+        1024
+      ],
+      "minimum_dpi": 216,
+      "sha256": "bed2fc5a6f2708cdd6e4d178fa5a8036f049837292c9a7864eaf64a29007b1fe"
+    },
+    {
+      "page": "P10",
+      "asset": "assets/mascot/poses/inspect-v1.1.png",
+      "pixels": [
+        293,
+        341
+      ],
+      "minimum_dpi": 659,
+      "sha256": "0640577a0f0832589b563e72fbacd31e4e5abb8ee52393d7e4dd17759688ccea"
+    }
+  ],
+  "technical_review": "pending",
+  "browser_qa": {
+    "status": "passed",
+    "sample_html_sha256": "88e618e6308ad36d54703660ae39d9c664b0df22f50a0ce229969b5763c4dbd5",
+    "v1": {
+      "pages": 21,
+      "search": true,
+      "next_previous_jump": true,
+      "print_ignores_search": true,
+      "mobile_widths": [
+        390,
+        768
+      ],
+      "pdf_titles_warnings": true
+    },
+    "samples": {
+      "/output/v1.1/samples.html": {
+        "text_overflow": []
+      },
+      "/web/v1.1/": {
+        "text_overflow": []
+      },
+      "offline_file": true,
+      "mobile_proof_widths": [
+        390,
+        768
+      ],
+      "browser_print": "4 A4 pages; complete original text verified"
+    },
+    "page_errors": []
+  },
+  "v1_preserved": true,
+  "pdf_pages": 4,
+  "pdf_full_original_text": "titles, keys, all block items, complete warnings, tips and sources verified",
+  "pdf_fonts": [
+    [
+      5,
+      "ttf",
+      "Type0",
+      "FUTYKY+Arial Unicode MS Regular",
+      "handbook",
+      "Identity-H"
+    ]
+  ],
+  "raster_floor_dpi": 201,
+  "html_embedded_images": true,
+  "renderer": "Shared scene graph -> native PDF (Arial Unicode embedded) / HTML. Browser print may differ; supplied PDF is native export.",
+  "v1_baseline_commit": "d2443f6",
+  "v1_unchanged_file_count": 17,
+  "v1_preserved_hashes": {
+    "content/handbook.json": "516e010aaac23ab18c106373e9356c104e3492c43d63e2116b5ce5ab0f73d4cb",
+    "web/app.js": "ca7938c7af88288433b5fcecd1e4445ac7efa27512cbc7f6e1cf613437c17885",
+    "web/downloads/Biogas-Plant-Health-Check-v1.docx": "9818437d821bcdf450b290cc27392b47d77f096025d3e1f07846246dd5cda8f4",
+    "web/downloads/Biogas-Plant-Health-Check-v1.pdf": "5558a5df203500b3146f1a64b371db058bd9ec3df57310675fb27c2d75f41cd5",
+    "web/index.html": "8bb070877b1613647a5708d15687e0d2c5327330c4e9bab7f29f64ea2d390b29",
+    "web/style.css": "694aa022372a1b14d446e3b68bd110f954ad3129d2ed07f0b83595b5ced1dd69",
+    "output/Biogas-Plant-Health-Check-v1.docx": "9818437d821bcdf450b290cc27392b47d77f096025d3e1f07846246dd5cda8f4",
+    "output/Biogas-Plant-Health-Check-v1.pdf": "5558a5df203500b3146f1a64b371db058bd9ec3df57310675fb27c2d75f41cd5",
+    "output/handbook-v1-bundle.zip": "b3511d0bd26194dbc5d1ed068e6c77098f45e4b5fc51afe61a9a9dd65bdbf8e9",
+    "output/standalone.html": "4c15f1194c7f414469700d34ada352249c1b15fd42ada63d37803778df47e3f7",
+    "qa/contact.png": "33130165dab83e2dad6030edcd5944588f3d5721cd3163f09fb1d96e8bac0d76",
+    "qa/page-00.png": "8b0d0d1d054366e2aeb6321d67acf7f959a4f002b0105d255cc690045d1924cc",
+    "qa/page-05.png": "70024fe322fcd42634890b036b1324753e7c654e4b3205e77143b78b988308c5",
+    "qa/page-10.png": "08817dc0b2b91e669d471b0f9bb593c6f95fa30e3730246e29fe55f3966821f5",
+    "qa/page-19.png": "77c2584a52d691454a38c92265abce261ce6d6bb3b69d09993c582ce129252ed",
+    "qa/report.json": "c3d02e6bcb68479c2b238d99aef392b14992c6f07ea7cbd8da285641138dd61a",
+    "qa/source-metadata.json": "e166d066f5f62f0825318b91a0d1f9603b266a61da79fcbf8f1c2c70b259e738"
+  },
+  "pdf_text_bounds": "all text spans within A4 safe area",
+  "pdf_fonts_embedded": true,
+  "offline_html": "four pages; all PNG bytes embedded; no network dependencies",
+  "visual_inspection": "PDF raster contact sheet inspected; labels adjusted; engineering review pending",
+  "result": "offline and browser QA passed; professional review pending"
+}

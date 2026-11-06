@@ -1,5 +1,7 @@
 # 沼氣場健康檢查手冊
 
+本 repo 已匯入既有專案與 Windows 相容性修正。[Windows 建置指南](docs/windows-full21-build.md) · [匯入範圍與限制](docs/github-import.md)。ZIP 封裝留在本機，請下載下列 PDF／HTML 或使用 GitHub Download ZIP。網站未發布。
+
 最新 [封面＋20 頁獨立圖像生成版](output/v1.1-full21/README.md)：[21 張原圖總覽](output/v1.1-full21/all-21-illustrations.png)、[完整 PDF](output/v1.1-full21/Biogas-Plant-v1.1-full21.pdf)、[離線網頁](output/v1.1-full21/handbook.html)。21 張原生 PNG 每張獨立生成；完整頁面圖片、原圖與提示詞分別打包。
 
 最新 [第二輪視覺樣板](output/v1.1-r2/README.md)：[四頁 PDF](output/v1.1-r2/Biogas-Plant-Health-Check-v1.1-r2.pdf)、[離線 HTML](output/v1.1-r2/samples.html)、[總覽](output/v1.1-r2/contact-sheet.png)。角色以兩張官方原圖重新生成情境動作，設備與角色共同構圖；手機直向重排。

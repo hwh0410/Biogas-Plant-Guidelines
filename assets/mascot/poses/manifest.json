@@ -1,0 +1,56 @@
+{
+  "source": "../reference/mascot-pose-sheet-v0.1.png",
+  "source_sha256": "9c694a3d5678751225be82cd69e5446a1b99a758682106333c79ae5b87cce06f",
+  "reference_character_sha256": "b546e162beb2bdffdc25b128cc900cf60e572cc41c5adf081b42dc4cb7570a63",
+  "method": "Exact pixel crops; white background retained; no redraw.",
+  "crops": {
+    "guide": [
+      66,
+      153,
+      357,
+      494
+    ],
+    "map": [
+      413,
+      153,
+      685,
+      494
+    ],
+    "inspect": [
+      756,
+      153,
+      1049,
+      494
+    ],
+    "record": [
+      1104,
+      153,
+      1401,
+      494
+    ],
+    "think": [
+      58,
+      592,
+      336,
+      942
+    ],
+    "ok": [
+      409,
+      592,
+      698,
+      942
+    ],
+    "watch": [
+      742,
+      592,
+      1048,
+      942
+    ],
+    "stop": [
+      1062,
+      592,
+      1420,
+      942
+    ]
+  }
+}

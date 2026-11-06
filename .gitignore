@@ -1,0 +1,6 @@
+.DS_Store
+.venv/
+.venv-windows/
+__pycache__/
+/reference/
+/output/v1.1-full21/*-bundle.zip

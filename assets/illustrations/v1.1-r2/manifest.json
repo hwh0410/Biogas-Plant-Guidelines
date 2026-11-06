@@ -1,0 +1,74 @@
+{
+  "version": "v1.1-r2",
+  "tool": "built-in image_gen.imagegen",
+  "character_method": "Both official PNGs passed as referenced_image_paths for every scene. New poses and shared lighting; no crop compositing.",
+  "references": {
+    "mascot-character-sheet-v0.1.png": "b546e162beb2bdffdc25b128cc900cf60e572cc41c5adf081b42dc4cb7570a63",
+    "mascot-pose-sheet-v0.1.png": "9c694a3d5678751225be82cd69e5446a1b99a758682106333c79ae5b87cce06f"
+  },
+  "assets": [
+    {
+      "file": "assets/illustrations/v1.1-r2/cover.png",
+      "sha256": "4405c4945971957937b93326a9581d224271196b847ce23b693d4b47f96f4e4e",
+      "pixels": [
+        1536,
+        1024
+      ],
+      "prompt": "assets/illustrations/v1.1-r2/prompts/cover.txt",
+      "reference_images": [
+        "assets/mascot/reference/mascot-character-sheet-v0.1.png",
+        "assets/mascot/reference/mascot-pose-sheet-v0.1.png"
+      ],
+      "tool": "built-in image_gen.imagegen",
+      "mascot_method": "reference-conditioned new scene generation; not crop"
+    },
+    {
+      "file": "assets/illustrations/v1.1-r2/P03.png",
+      "sha256": "cc91bb9844ec9b65df3b66be31d1497080f89739e08fcdf02159a032cdab465a",
+      "pixels": [
+        1672,
+        941
+      ],
+      "prompt": "assets/illustrations/v1.1-r2/prompts/P03.txt",
+      "reference_images": [
+        "assets/mascot/reference/mascot-character-sheet-v0.1.png",
+        "assets/mascot/reference/mascot-pose-sheet-v0.1.png"
+      ],
+      "tool": "built-in image_gen.imagegen",
+      "mascot_method": "reference-conditioned new scene generation; not crop"
+    },
+    {
+      "file": "assets/illustrations/v1.1-r2/P05.png",
+      "sha256": "f522f7108edb42c542237fbff43aa3ff7d0f072b78ca0053d3107932648eb6aa",
+      "pixels": [
+        1672,
+        941
+      ],
+      "prompt": "assets/illustrations/v1.1-r2/prompts/P05.txt",
+      "reference_images": [
+        "assets/mascot/reference/mascot-character-sheet-v0.1.png",
+        "assets/mascot/reference/mascot-pose-sheet-v0.1.png"
+      ],
+      "tool": "built-in image_gen.imagegen",
+      "mascot_method": "reference-conditioned new scene generation; not crop"
+    },
+    {
+      "file": "assets/illustrations/v1.1-r2/P10.png",
+      "sha256": "517003cf84fe380f92b34ca6dd3c07260a57d73c261d713c4ba0e90800c291e8",
+      "pixels": [
+        1536,
+        1024
+      ],
+      "prompt": "assets/illustrations/v1.1-r2/prompts/P10.txt",
+      "reference_images": [
+        "assets/mascot/reference/mascot-character-sheet-v0.1.png",
+        "assets/mascot/reference/mascot-pose-sheet-v0.1.png"
+      ],
+      "tool": "built-in image_gen.imagegen",
+      "mascot_method": "reference-conditioned new scene generation; not crop"
+    }
+  ],
+  "external_billed_api_calls": false,
+  "user_design_acceptance": "pending",
+  "professional_review": "pending"
+}

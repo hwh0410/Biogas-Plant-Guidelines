@@ -1,0 +1,347 @@
+{
+  "edition": "v1.1-full21",
+  "content_sha256": "516e010aaac23ab18c106373e9356c104e3492c43d63e2116b5ce5ab0f73d4cb",
+  "html_sha256": "452a3414624b96d3c498ea6ab9a339c22152971a25ddd93e78361b169f9d03aa",
+  "browser": "passed",
+  "engineering_review": "pending",
+  "official_reference_hashes": {
+    "mascot-character-sheet-v0.1.png": "b546e162beb2bdffdc25b128cc900cf60e572cc41c5adf081b42dc4cb7570a63",
+    "mascot-pose-sheet-v0.1.png": "9c694a3d5678751225be82cd69e5446a1b99a758682106333c79ae5b87cce06f"
+  },
+  "assets": [
+    {
+      "id": "cover",
+      "file": "assets/illustrations/v1.1-full21/cover.png",
+      "sha256": "96292782c2027f327f48972277b3631eeb0da75f6ed62512b176879cfa544c76",
+      "pixels": [
+        1536,
+        1024
+      ],
+      "prompt": "assets/illustrations/v1.1-full21/prompts/cover.txt"
+    },
+    {
+      "id": "P01",
+      "file": "assets/illustrations/v1.1-full21/P01.png",
+      "sha256": "a030f16e9145581e09c3088d4fae628c98dd4e344b7f8a43bd265fc4f5fbce00",
+      "pixels": [
+        1536,
+        1024
+      ],
+      "prompt": "assets/illustrations/v1.1-full21/prompts/P01.txt"
+    },
+    {
+      "id": "P02",
+      "file": "assets/illustrations/v1.1-full21/P02.png",
+      "sha256": "9e2fd35a24dffa4a574e586b820127b148b7d2dac20b3ab6562659895f0280bf",
+      "pixels": [
+        1536,
+        1024
+      ],
+      "prompt": "assets/illustrations/v1.1-full21/prompts/P02.txt"
+    },
+    {
+      "id": "P03",
+      "file": "assets/illustrations/v1.1-full21/P03.png",
+      "sha256": "8d91da9f97e628612af22933584f4e299d57ebf345cec14162939eb1b7e8bfb4",
+      "pixels": [
+        1536,
+        1024
+      ],
+      "prompt": "assets/illustrations/v1.1-full21/prompts/P03.txt"
+    },
+    {
+      "id": "P04",
+      "file": "assets/illustrations/v1.1-full21/P04.png",
+      "sha256": "d59002078c553ee56e5916ee216df6feda7aebe1d9fe32b722f9297b522e07fc",
+      "pixels": [
+        1536,
+        1024
+      ],
+      "prompt": "assets/illustrations/v1.1-full21/prompts/P04.txt"
+    },
+    {
+      "id": "P05",
+      "file": "assets/illustrations/v1.1-full21/P05.png",
+      "sha256": "928f0f1e42c8570e0f01eb9f917cf35e96dd44c1440997acd1475286ba22a590",
+      "pixels": [
+        1536,
+        1024
+      ],
+      "prompt": "assets/illustrations/v1.1-full21/prompts/P05.txt"
+    },
+    {
+      "id": "P06",
+      "file": "assets/illustrations/v1.1-full21/P06.png",
+      "sha256": "bfe66fef85a4e467b1ec3549a2e8f690f88ca32ce25474bbba2db2207c1f1294",
+      "pixels": [
+        1536,
+        1024
+      ],
+      "prompt": "assets/illustrations/v1.1-full21/prompts/P06.txt"
+    },
+    {
+      "id": "P07",
+      "file": "assets/illustrations/v1.1-full21/P07.png",
+      "sha256": "f67dcb3fe6beabf2b60238bc9d3bd78eb2f5edeb2ff9171443f9f192558b68b7",
+      "pixels": [
+        1536,
+        1024
+      ],
+      "prompt": "assets/illustrations/v1.1-full21/prompts/P07.txt"
+    },
+    {
+      "id": "P08",
+      "file": "assets/illustrations/v1.1-full21/P08.png",
+      "sha256": "f6c31090d9e97bf870f6be929c546c71f125d9376766de5286bb04a9cdef10a9",
+      "pixels": [
+        1536,
+        1024
+      ],
+      "prompt": "assets/illustrations/v1.1-full21/prompts/P08.txt"
+    },
+    {
+      "id": "P09",
+      "file": "assets/illustrations/v1.1-full21/P09.png",
+      "sha256": "ee58062b3b11508085f2362b35f4bb6c8a5a45cc850255a6ab0eb36da7462d7c",
+      "pixels": [
+        1536,
+        1024
+      ],
+      "prompt": "assets/illustrations/v1.1-full21/prompts/P09.txt"
+    },
+    {
+      "id": "P10",
+      "file": "assets/illustrations/v1.1-full21/P10.png",
+      "sha256": "77625b93092a7ca7a89dcf71d264af4a90c5fd19e7fda592e2c1b9e4e574c100",
+      "pixels": [
+        1536,
+        1024
+      ],
+      "prompt": "assets/illustrations/v1.1-full21/prompts/P10.txt"
+    },
+    {
+      "id": "P11",
+      "file": "assets/illustrations/v1.1-full21/P11.png",
+      "sha256": "e06a7f8eaf97fa100d72dc9c423307ed51ce8c4c193f82cfc6817992b4238456",
+      "pixels": [
+        1536,
+        1024
+      ],
+      "prompt": "assets/illustrations/v1.1-full21/prompts/P11.txt"
+    },
+    {
+      "id": "P12",
+      "file": "assets/illustrations/v1.1-full21/P12.png",
+      "sha256": "ee1a6187267e4ba98f9af3d52cacaad355f0789c3ea58286682f8845b36a6a0f",
+      "pixels": [
+        1536,
+        1024
+      ],
+      "prompt": "assets/illustrations/v1.1-full21/prompts/P12.txt"
+    },
+    {
+      "id": "P13",
+      "file": "assets/illustrations/v1.1-full21/P13.png",
+      "sha256": "f2b50a339da9ab515929851d765f558ec2ec53545639b78d80d646762918159c",
+      "pixels": [
+        1536,
+        1024
+      ],
+      "prompt": "assets/illustrations/v1.1-full21/prompts/P13.txt"
+    },
+    {
+      "id": "P14",
+      "file": "assets/illustrations/v1.1-full21/P14.png",
+      "sha256": "b5386c449843b8441df8323e9929ccfe91fbf5f02e8dbb9f1cbd53dff490ec6c",
+      "pixels": [
+        1536,
+        1024
+      ],
+      "prompt": "assets/illustrations/v1.1-full21/prompts/P14.txt"
+    },
+    {
+      "id": "P15",
+      "file": "assets/illustrations/v1.1-full21/P15.png",
+      "sha256": "ce8c1a3ecf585fdd362b966493a80e12f3ab40a3b025052dc71d51da1f67cf11",
+      "pixels": [
+        1536,
+        1024
+      ],
+      "prompt": "assets/illustrations/v1.1-full21/prompts/P15.txt"
+    },
+    {
+      "id": "P16",
+      "file": "assets/illustrations/v1.1-full21/P16.png",
+      "sha256": "5c0e8f752eb745e906b7b4c400e9c493bba370003047aa91847495a910be1e9b",
+      "pixels": [
+        1536,
+        1024
+      ],
+      "prompt": "assets/illustrations/v1.1-full21/prompts/P16.txt"
+    },
+    {
+      "id": "P17",
+      "file": "assets/illustrations/v1.1-full21/P17.png",
+      "sha256": "f89546ccf0d3b8a6836a6fd29176fd9364c479bed38a138626880ac27147e75d",
+      "pixels": [
+        1536,
+        1024
+      ],
+      "prompt": "assets/illustrations/v1.1-full21/prompts/P17.txt"
+    },
+    {
+      "id": "P18",
+      "file": "assets/illustrations/v1.1-full21/P18.png",
+      "sha256": "eee1b558cf44d656d87532383624f5be379cf0e525f7392daa690484750721cb",
+      "pixels": [
+        1536,
+        1024
+      ],
+      "prompt": "assets/illustrations/v1.1-full21/prompts/P18.txt"
+    },
+    {
+      "id": "P19",
+      "file": "assets/illustrations/v1.1-full21/P19.png",
+      "sha256": "e90ba518d1b819e64b0c049d2fd69f677dcce28d716a0bac2e2261bf75e91637",
+      "pixels": [
+        1536,
+        1024
+      ],
+      "prompt": "assets/illustrations/v1.1-full21/prompts/P19.txt"
+    },
+    {
+      "id": "P20",
+      "file": "assets/illustrations/v1.1-full21/P20.png",
+      "sha256": "c73d6ca3012b527269d5d4ab1aa8706d8013cdbf1a1a38ed4b5ced2d9e99c09d",
+      "pixels": [
+        1536,
+        1024
+      ],
+      "prompt": "assets/illustrations/v1.1-full21/prompts/P20.txt"
+    }
+  ],
+  "screen_overflow": [],
+  "mobile_widths": [
+    390,
+    768
+  ],
+  "print_overflow": [],
+  "pdf_pages": 21,
+  "page_errors": [],
+  "previous_files_unchanged": 52,
+  "pdf_full_text": "all 20 pages: headings, key, every item, full warnings, tips, sources, related pages, tables, form and formula verified",
+  "final_png_count": 21,
+  "png_resolution": "A4 at 200 dpi; main artwork native resolution recorded separately, not a 300 dpi press-ready claim",
+  "pdf_sha256": "7c470c8ea67d782c85c6c9947835e9674664fca38419254a2a9c1acb9be2e8bc",
+  "character_review": "All 21 originals visually inspected: yellow leaf helmet, dark faceplate, lime digital eyes, gauge/leaf emblem and short rounded body retained. New page-specific poses; no crops. User aesthetic approval and professional review pending.",
+  "final_png_sha256": {
+    "P01.png": "b25d7a2e69002a9b3a22ddaf4e12a86cf8d38b61f00a50316b33c6b6d5348d09",
+    "P02.png": "dd5acca6049ff20b43dfc2651feb9f6016e2dec907ac92231f1c9778e9afd0e3",
+    "P03.png": "ff72d1a00dcd7f14b5e73a242a4ba9713b274d51c90527369bc4857ccb32cf4a",
+    "P04.png": "f06931f49afbd424bbecbf2d120c20932ad1dab5b5fc56c35c5545b8176f6a8e",
+    "P05.png": "ca6093fee24ec6efd79f8a725da357f1b38b87e1ca6cb380de16c15ce6839ae0",
+    "P06.png": "1698da9d7513e7dcbdfddfc977c5b8b7a873ff9480788e86dc5f3f76cb7540b3",
+    "P07.png": "cfe1b70eb7710efabd4cfa8236d0bd31ce6181392438d4db31ad5f8033bdcbc7",
+    "P08.png": "680209dbb4ce6d7f5630ed518595fbc02a22ec304a93607a03d7fa7c60306bf1",
+    "P09.png": "3324c4cdb0bb69d081b2105da444af16f351a1203e5d0730642a75adb09a71b9",
+    "P10.png": "7bd41a28961cc7d30aa6b042879f41c01d870840b8dd065f552e3dd861f20d81",
+    "P11.png": "c99fc1fd2c4fb4783bbe79faf1d1c4bda09a84e63ca063bc8114f80a9e82fa70",
+    "P12.png": "de4275805cf2aaf5069d68e974d62cc80eec560fb0839737989fe7a7e7ee31f8",
+    "P13.png": "28884bfb8b21523ce51589b94fd30cc14f31c57529008bab7a7576592ce57eaa",
+    "P14.png": "bf15ae8ba6f1265ee78c4b06b458f1e25e8182a9b0b6f7db502120aa72116ace",
+    "P15.png": "f1baa64b6e19919d87331ceab0eb7f0f924676ce8645e8f21419a83902e9fd70",
+    "P16.png": "2931aaba1f18a2991001ef1e861dee95d6719d2ca44fdc129e64247ad9da780f",
+    "P17.png": "4d21e4ebb341f1779377b4745ad70ee149f1d664caf149c0ff2b42ee05a41f19",
+    "P18.png": "94d2c65070b37e89890dd82cfdf806878074f91d8e73fcd67de927565064ce7d",
+    "P19.png": "e8b2be4b7b1d2367153093b8813bab3c284062cf7bad15eec8a41804a213dcfc",
+    "P20.png": "e02d712d98ca8ccf9a9821a5d65a1f665b69ecaaf1c17ad21db272744f8ba773",
+    "cover.png": "c0aa45b1fe55a12c6ee4d97f7e242864795702172de17dd4e55e3b9ae99bc2a0"
+  },
+  "png_dimensions": {
+    "P01.png": [
+      1653,
+      2339
+    ],
+    "P02.png": [
+      1653,
+      2339
+    ],
+    "P03.png": [
+      1653,
+      2339
+    ],
+    "P04.png": [
+      1653,
+      2339
+    ],
+    "P05.png": [
+      1653,
+      2339
+    ],
+    "P06.png": [
+      1653,
+      2339
+    ],
+    "P07.png": [
+      1653,
+      2339
+    ],
+    "P08.png": [
+      1653,
+      2339
+    ],
+    "P09.png": [
+      1653,
+      2339
+    ],
+    "P10.png": [
+      1653,
+      2339
+    ],
+    "P11.png": [
+      1653,
+      2339
+    ],
+    "P12.png": [
+      1653,
+      2339
+    ],
+    "P13.png": [
+      1653,
+      2339
+    ],
+    "P14.png": [
+      1653,
+      2339
+    ],
+    "P15.png": [
+      1653,
+      2339
+    ],
+    "P16.png": [
+      1653,
+      2339
+    ],
+    "P17.png": [
+      1653,
+      2339
+    ],
+    "P18.png": [
+      1653,
+      2339
+    ],
+    "P19.png": [
+      1653,
+      2339
+    ],
+    "P20.png": [
+      1653,
+      2339
+    ],
+    "cover.png": [
+      1653,
+      2339
+    ]
+  },
+  "visual_qa": "All 21 native illustrations and 21-page contact sheets inspected; full-size table and safety pages inspected; no clipping found. Engineering review pending."
+}

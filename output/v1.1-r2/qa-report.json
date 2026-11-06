@@ -1,0 +1,105 @@
+{
+  "design": "v1.1-r2",
+  "content_sha256": "516e010aaac23ab18c106373e9356c104e3492c43d63e2116b5ce5ab0f73d4cb",
+  "html_sha256": "c716748e9c928f9c35a66edfe4867823f02577d887b5739ca84dc7efde6e53bc",
+  "browser": "passed",
+  "technical_review": "pending",
+  "character_review": "Manual comparison to both official references: helmet leaf, dark faceplate, lime digital eyes, gauge/leaf emblem, green rounded body and short proportions consistent; poses and lighting adapted to scenes. No crop assets used.",
+  "assets": [
+    {
+      "file": "assets/illustrations/v1.1-r2/cover.png",
+      "sha256": "4405c4945971957937b93326a9581d224271196b847ce23b693d4b47f96f4e4e",
+      "pixels": [
+        1536,
+        1024
+      ],
+      "prompt": "assets/illustrations/v1.1-r2/prompts/cover.txt",
+      "reference_images": [
+        "assets/mascot/reference/mascot-character-sheet-v0.1.png",
+        "assets/mascot/reference/mascot-pose-sheet-v0.1.png"
+      ],
+      "tool": "built-in image_gen.imagegen",
+      "mascot_method": "reference-conditioned new scene generation; not crop"
+    },
+    {
+      "file": "assets/illustrations/v1.1-r2/P03.png",
+      "sha256": "cc91bb9844ec9b65df3b66be31d1497080f89739e08fcdf02159a032cdab465a",
+      "pixels": [
+        1672,
+        941
+      ],
+      "prompt": "assets/illustrations/v1.1-r2/prompts/P03.txt",
+      "reference_images": [
+        "assets/mascot/reference/mascot-character-sheet-v0.1.png",
+        "assets/mascot/reference/mascot-pose-sheet-v0.1.png"
+      ],
+      "tool": "built-in image_gen.imagegen",
+      "mascot_method": "reference-conditioned new scene generation; not crop"
+    },
+    {
+      "file": "assets/illustrations/v1.1-r2/P05.png",
+      "sha256": "f522f7108edb42c542237fbff43aa3ff7d0f072b78ca0053d3107932648eb6aa",
+      "pixels": [
+        1672,
+        941
+      ],
+      "prompt": "assets/illustrations/v1.1-r2/prompts/P05.txt",
+      "reference_images": [
+        "assets/mascot/reference/mascot-character-sheet-v0.1.png",
+        "assets/mascot/reference/mascot-pose-sheet-v0.1.png"
+      ],
+      "tool": "built-in image_gen.imagegen",
+      "mascot_method": "reference-conditioned new scene generation; not crop"
+    },
+    {
+      "file": "assets/illustrations/v1.1-r2/P10.png",
+      "sha256": "517003cf84fe380f92b34ca6dd3c07260a57d73c261d713c4ba0e90800c291e8",
+      "pixels": [
+        1536,
+        1024
+      ],
+      "prompt": "assets/illustrations/v1.1-r2/prompts/P10.txt",
+      "reference_images": [
+        "assets/mascot/reference/mascot-character-sheet-v0.1.png",
+        "assets/mascot/reference/mascot-pose-sheet-v0.1.png"
+      ],
+      "tool": "built-in image_gen.imagegen",
+      "mascot_method": "reference-conditioned new scene generation; not crop"
+    }
+  ],
+  "artwork_effective_dpi": [
+    {
+      "alt": "以兩張官方角色原圖重新生成：巡檢員持場區地圖，伸手引導讀者認識厭氧槽與全場設備",
+      "dpi": 194
+    },
+    {
+      "alt": "官方同角色新生成情境：在全場模型旁指向厭氧槽",
+      "dpi": 232
+    },
+    {
+      "alt": "官方同角色新生成情境：在封閉厭氧槽外查看既有儀表，對照正常異常概念剖面",
+      "dpi": 232
+    },
+    {
+      "alt": "官方同角色新生成情境：觀察後端量測顯示並在平板記錄，未接觸管線",
+      "dpi": 213
+    }
+  ],
+  "screen_overflow": [],
+  "mobile_reflow_widths": [
+    390,
+    768
+  ],
+  "print_overflow": [],
+  "pdf_pages": 4,
+  "pdf_original_text": "titles, keys, all eight items, warnings, tips and sources verified",
+  "offline_file": true,
+  "page_errors": [],
+  "prior_edition_files_unchanged": 39,
+  "publication_limit": "Artwork about 194–232 effective dpi; style proof, not 300 dpi press-ready. AI equipment and instrument traces require professional review.",
+  "official_reference_hashes": {
+    "mascot-character-sheet-v0.1.png": "b546e162beb2bdffdc25b128cc900cf60e572cc41c5adf081b42dc4cb7570a63",
+    "mascot-pose-sheet-v0.1.png": "9c694a3d5678751225be82cd69e5446a1b99a758682106333c79ae5b87cce06f"
+  },
+  "pdf_sha256": "6f16ddee3a86373bc0527ccd05e1ece2c5a1c4fb34f293a7d6410ec607f1d0ae"
+}

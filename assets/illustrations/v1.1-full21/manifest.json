@@ -1,0 +1,162 @@
+{
+  "edition": "v1.1-full21",
+  "date": "2026-11-06",
+  "new_image_generation_calls": 21,
+  "original_png_count": 21,
+  "external_billed_api_calls": false,
+  "character_inputs": [
+    "assets/mascot/reference/mascot-character-sheet-v0.1.png",
+    "assets/mascot/reference/mascot-pose-sheet-v0.1.png"
+  ],
+  "use_of_cropped_mascots": false,
+  "assets": [
+    {
+      "id": "cover",
+      "file": "cover.png",
+      "sha256": "96292782c2027f327f48972277b3631eeb0da75f6ed62512b176879cfa544c76",
+      "prompt": "prompts/cover.txt",
+      "generation": "new call to built-in image_gen.imagegen; both official PNG reference paths supplied"
+    },
+    {
+      "id": "P01",
+      "file": "P01.png",
+      "sha256": "a030f16e9145581e09c3088d4fae628c98dd4e344b7f8a43bd265fc4f5fbce00",
+      "prompt": "prompts/P01.txt",
+      "generation": "new call to built-in image_gen.imagegen; both official PNG reference paths supplied"
+    },
+    {
+      "id": "P02",
+      "file": "P02.png",
+      "sha256": "9e2fd35a24dffa4a574e586b820127b148b7d2dac20b3ab6562659895f0280bf",
+      "prompt": "prompts/P02.txt",
+      "generation": "new call to built-in image_gen.imagegen; both official PNG reference paths supplied"
+    },
+    {
+      "id": "P03",
+      "file": "P03.png",
+      "sha256": "8d91da9f97e628612af22933584f4e299d57ebf345cec14162939eb1b7e8bfb4",
+      "prompt": "prompts/P03.txt",
+      "generation": "new call to built-in image_gen.imagegen; both official PNG reference paths supplied"
+    },
+    {
+      "id": "P04",
+      "file": "P04.png",
+      "sha256": "d59002078c553ee56e5916ee216df6feda7aebe1d9fe32b722f9297b522e07fc",
+      "prompt": "prompts/P04.txt",
+      "generation": "new call to built-in image_gen.imagegen; both official PNG reference paths supplied"
+    },
+    {
+      "id": "P05",
+      "file": "P05.png",
+      "sha256": "928f0f1e42c8570e0f01eb9f917cf35e96dd44c1440997acd1475286ba22a590",
+      "prompt": "prompts/P05.txt",
+      "generation": "new call to built-in image_gen.imagegen; both official PNG reference paths supplied"
+    },
+    {
+      "id": "P06",
+      "file": "P06.png",
+      "sha256": "bfe66fef85a4e467b1ec3549a2e8f690f88ca32ce25474bbba2db2207c1f1294",
+      "prompt": "prompts/P06.txt",
+      "generation": "new call to built-in image_gen.imagegen; both official PNG reference paths supplied"
+    },
+    {
+      "id": "P07",
+      "file": "P07.png",
+      "sha256": "f67dcb3fe6beabf2b60238bc9d3bd78eb2f5edeb2ff9171443f9f192558b68b7",
+      "prompt": "prompts/P07.txt",
+      "generation": "new call to built-in image_gen.imagegen; both official PNG reference paths supplied"
+    },
+    {
+      "id": "P08",
+      "file": "P08.png",
+      "sha256": "f6c31090d9e97bf870f6be929c546c71f125d9376766de5286bb04a9cdef10a9",
+      "prompt": "prompts/P08.txt",
+      "generation": "new call to built-in image_gen.imagegen; both official PNG reference paths supplied"
+    },
+    {
+      "id": "P09",
+      "file": "P09.png",
+      "sha256": "ee58062b3b11508085f2362b35f4bb6c8a5a45cc850255a6ab0eb36da7462d7c",
+      "prompt": "prompts/P09.txt",
+      "generation": "new call to built-in image_gen.imagegen; both official PNG reference paths supplied"
+    },
+    {
+      "id": "P10",
+      "file": "P10.png",
+      "sha256": "77625b93092a7ca7a89dcf71d264af4a90c5fd19e7fda592e2c1b9e4e574c100",
+      "prompt": "prompts/P10.txt",
+      "generation": "new call to built-in image_gen.imagegen; both official PNG reference paths supplied"
+    },
+    {
+      "id": "P11",
+      "file": "P11.png",
+      "sha256": "e06a7f8eaf97fa100d72dc9c423307ed51ce8c4c193f82cfc6817992b4238456",
+      "prompt": "prompts/P11.txt",
+      "generation": "new call to built-in image_gen.imagegen; both official PNG reference paths supplied"
+    },
+    {
+      "id": "P12",
+      "file": "P12.png",
+      "sha256": "ee1a6187267e4ba98f9af3d52cacaad355f0789c3ea58286682f8845b36a6a0f",
+      "prompt": "prompts/P12.txt",
+      "generation": "new call to built-in image_gen.imagegen; both official PNG reference paths supplied"
+    },
+    {
+      "id": "P13",
+      "file": "P13.png",
+      "sha256": "f2b50a339da9ab515929851d765f558ec2ec53545639b78d80d646762918159c",
+      "prompt": "prompts/P13.txt",
+      "generation": "new call to built-in image_gen.imagegen; both official PNG reference paths supplied"
+    },
+    {
+      "id": "P14",
+      "file": "P14.png",
+      "sha256": "b5386c449843b8441df8323e9929ccfe91fbf5f02e8dbb9f1cbd53dff490ec6c",
+      "prompt": "prompts/P14.txt",
+      "generation": "new call to built-in image_gen.imagegen; both official PNG reference paths supplied"
+    },
+    {
+      "id": "P15",
+      "file": "P15.png",
+      "sha256": "ce8c1a3ecf585fdd362b966493a80e12f3ab40a3b025052dc71d51da1f67cf11",
+      "prompt": "prompts/P15.txt",
+      "generation": "new call to built-in image_gen.imagegen; both official PNG reference paths supplied"
+    },
+    {
+      "id": "P16",
+      "file": "P16.png",
+      "sha256": "5c0e8f752eb745e906b7b4c400e9c493bba370003047aa91847495a910be1e9b",
+      "prompt": "prompts/P16.txt",
+      "generation": "new call to built-in image_gen.imagegen; both official PNG reference paths supplied"
+    },
+    {
+      "id": "P17",
+      "file": "P17.png",
+      "sha256": "f89546ccf0d3b8a6836a6fd29176fd9364c479bed38a138626880ac27147e75d",
+      "prompt": "prompts/P17.txt",
+      "generation": "new call to built-in image_gen.imagegen; both official PNG reference paths supplied"
+    },
+    {
+      "id": "P18",
+      "file": "P18.png",
+      "sha256": "eee1b558cf44d656d87532383624f5be379cf0e525f7392daa690484750721cb",
+      "prompt": "prompts/P18.txt",
+      "generation": "new call to built-in image_gen.imagegen; both official PNG reference paths supplied"
+    },
+    {
+      "id": "P19",
+      "file": "P19.png",
+      "sha256": "e90ba518d1b819e64b0c049d2fd69f677dcce28d716a0bac2e2261bf75e91637",
+      "prompt": "prompts/P19.txt",
+      "generation": "new call to built-in image_gen.imagegen; both official PNG reference paths supplied"
+    },
+    {
+      "id": "P20",
+      "file": "P20.png",
+      "sha256": "c73d6ca3012b527269d5d4ab1aa8706d8013cdbf1a1a38ed4b5ced2d9e99c09d",
+      "prompt": "prompts/P20.txt",
+      "generation": "new call to built-in image_gen.imagegen; both official PNG reference paths supplied"
+    }
+  ],
+  "review": "Editorial visual inspection complete; user aesthetic and engineering/safety review pending"
+}

@@ -1,0 +1,30 @@
+{
+  "status": "passed",
+  "sample_html_sha256": "88e618e6308ad36d54703660ae39d9c664b0df22f50a0ce229969b5763c4dbd5",
+  "v1": {
+    "pages": 21,
+    "search": true,
+    "next_previous_jump": true,
+    "print_ignores_search": true,
+    "mobile_widths": [
+      390,
+      768
+    ],
+    "pdf_titles_warnings": true
+  },
+  "samples": {
+    "/output/v1.1/samples.html": {
+      "text_overflow": []
+    },
+    "/web/v1.1/": {
+      "text_overflow": []
+    },
+    "offline_file": true,
+    "mobile_proof_widths": [
+      390,
+      768
+    ],
+    "browser_print": "4 A4 pages; complete original text verified"
+  },
+  "page_errors": []
+}
